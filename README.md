@@ -136,4 +136,4 @@ gemini-assistant/
 This project is licensed under the **MIT License**. Use it, tweak it, and make it your own!
 
 ---
-*Built with ❤️ for the Vibe Coding community.*
+*Built with ❤️ and AI for the Vibe Coding community.*
