@@ -6,8 +6,6 @@
 
 A premium, feature-rich CLI AI assistant with a polished "JARVIS" personality. Built for productivity, it handles text, images, documents, and real-time web searches with ease.
 
-![image](https://raw.githubusercontent.com/richard-on/ai-assistant/main/hero.png) *(Placeholder for a beautiful CLI screenshot)*
-
 ## 🚀 Key Features
 
 - 💬 **Multimodal Conversations** - Talk to your AI about anything, including images and files.
