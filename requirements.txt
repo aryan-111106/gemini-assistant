@@ -1,0 +1,31 @@
+# Core dependencies
+openai>=1.0.0
+google-genai>=1.0.0
+rich>=13.7.0
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+pypdf>=4.0.0
+click>=8.1.0
+prompt-toolkit>=3.0.0
+httpx>=0.27.0
+duckduckgo-search>=5.0.0
+
+# Voice - TTS (pick one)
+edge-tts>=6.0.0        # High quality Microsoft voices (recommended)
+# pyttsx3>=2.90        # Offline, works everywhere
+# gtts>=2.5.0          # Google TTS (needs internet)
+
+# Voice - Audio Playback (at least one recommended)
+# playsound>=1.3.0     # Pure Python, simplest option
+pygame>=2.5.0          # Good cross-platform option
+# pydub>=0.25.0        # Alternative with ffmpeg
+
+# Voice - STT (for voice input)
+SpeechRecognition>=3.10.0
+# sounddevice>=0.4.0   # Better than PyAudio on Linux
+
+# Web search (duckduckgo - new package name)
+ddgs>=9.0.0
+
+# Web scraping
+beautifulsoup4>=4.12.0
